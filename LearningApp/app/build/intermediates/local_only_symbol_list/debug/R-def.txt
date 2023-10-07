@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+anim splash_anim
+color black
+color white
+drawable app
+drawable baseline_code_24
+drawable baseline_home_24
+drawable baseline_quiz_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+id Code
+id Quiz
+id bottom_Navigation
+id bottom_nav
+id home
+id main_fragment
+id splash_logo
+layout activity_main
+layout fragment_blank
+layout fragment_code
+layout fragment_home
+layout fragment_quiz
+layout splash_screen
+menu bottom_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation bottom_nav
+string app_name
+string hello_blank_fragment
+style Base.Theme.LearningApp
+style Theme.LearningApp
+xml backup_rules
+xml data_extraction_rules
